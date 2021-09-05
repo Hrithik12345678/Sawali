@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "9928057878",
+    "project_id": "savali-e8db9",
+    "storage_bucket": "savali-e8db9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9928057878:android:ddb2bda04f985cd80f8137",
+        "android_client_info": {
+          "package_name": "com.example.savali"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9928057878-f922rr6iu25p5l11e0v19ro1mnlas51h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.savali",
+            "certificate_hash": "89d4564a4d7c22c8c691f7fd942cbf72a5580b75"
+          }
+        },
+        {
+          "client_id": "9928057878-jfctgs0hmhtu3lifoqb26vfppn4pupu0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.savali",
+            "certificate_hash": "a96de059de97a6ec755cd4be77cc0f5b0131e4c2"
+          }
+        },
+        {
+          "client_id": "9928057878-9bl9gunj7sp1k0fb1164ve7j67hlghc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJh-MJA0neJi3r6zIudqBRNi3fT5IJlgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9928057878-9bl9gunj7sp1k0fb1164ve7j67hlghc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
